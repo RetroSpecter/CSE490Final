@@ -6,7 +6,7 @@ Material:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: New Material 5
+  m_Name: octopus
   m_Shader: {fileID: 4800000, guid: f1091a5fddc930840b22bb11603dc576, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -18,6 +18,14 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - Texture2D_190871D2:
+        m_Texture: {fileID: 2800000, guid: 509221edc45d2954b807b24c4b0de465, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_58E023F6:
+        m_Texture: {fileID: 2800000, guid: 7b82d12aad56cc445b99fd1cf06a232d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _BumpMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -60,8 +68,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Vector1_2A8A29F8: 0.05
-    - Vector1_9D4B8341: 1.46
-    - Vector1_BDA3F216: 1.43
+    - Vector1_4766D232: 0
+    - Vector1_9D4B8341: 0.97
+    - Vector1_BDA3F216: 0.83
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -83,7 +92,9 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - Color_B773F8E8: {r: 0.6981132, g: 0.10866857, b: 0.10866857, a: 0}
-    - _Color: {r: 0.6320754, g: 0.13416697, b: 0.13416697, a: 1}
+    - Color_5A22009C: {r: 1, g: 1, b: 1, a: 0}
+    - Color_B773F8E8: {r: 0.7254902, g: 0.3371229, b: 0.31372547, a: 0}
+    - Color_E69285C: {r: 0.5660378, g: 0.5633677, b: 0.5633677, a: 0}
+    - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
