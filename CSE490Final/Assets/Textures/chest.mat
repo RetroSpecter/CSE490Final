@@ -6,8 +6,8 @@ Material:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: New Material 6
-  m_Shader: {fileID: 4800000, guid: f1091a5fddc930840b22bb11603dc576, type: 3}
+  m_Name: chest
+  m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -58,16 +58,7 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _Subgraph_55129611_Texture2D6AD947C5:
-        m_Texture: {fileID: 2800000, guid: 0fcb7f7a428d9a84aa567b8773421a13, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_222FC5F: 0.5
-    - Vector1_2A8A29F8: 0.05
-    - Vector1_9D4B8341: 0.45
-    - Vector1_B733207C: 0.01
-    - Vector1_BDA3F216: 0.59
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -89,8 +80,6 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - Color_B773F8E8: {r: 0.94509804, g: 0.73429817, b: 0.19999999, a: 0}
-    - Vector2_1800F3E2: {r: 1, g: 1, b: 0, a: 0}
-    - _Color: {r: 0.94509804, g: 0.51954013, b: 0.1372549, a: 1}
+    - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
