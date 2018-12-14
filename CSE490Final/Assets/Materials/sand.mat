@@ -103,7 +103,7 @@ Material:
     - Color_BFC9ABE2: {r: 0.8867924, g: 0.8314506, b: 0.6148985, a: 0}
     - Color_E0F39BB8: {r: 0, g: 0, b: 0, a: 0}
     - Vector2_2E9C9AF9: {r: 0, g: 0, b: 0, a: 0}
-    - Vector2_94278C48: {r: 15, g: 15, b: 0, a: 0}
+    - Vector2_94278C48: {r: 20, g: 20, b: 0, a: 0}
     - _Color: {r: 0.6981132, g: 0.66321146, b: 0.51699895, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}

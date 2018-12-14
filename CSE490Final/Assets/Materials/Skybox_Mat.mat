@@ -76,7 +76,7 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _SunDisk: 2
-    - _SunSize: 0.23
+    - _SunSize: 0.02
     - _SunSizeConvergence: 1
     - _UVSec: 0
     - _WorkflowMode: 1
